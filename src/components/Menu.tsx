@@ -5,6 +5,8 @@ export default function Menu() {
       <MenuLi href={"/"}>My Data</MenuLi>
       <MenuLi href={"/"}>My Pets</MenuLi>
       <MenuLi href={"/"}>My Reports</MenuLi>
+      <MenuLi href={"/login"}>Login</MenuLi>
+      <MenuLi href={"/signup"}>Signup</MenuLi>
     </menu>
   );
 }
